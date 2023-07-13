@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": "priya",
+      "password": "priya",
+      "email": "email",
+      "phoneno": 3877483748
+    },
+    {
+      "id": "a",
+      "password": "a",
+      "email": "a",
+      "phoneno": "1"
+    },
+    {
+      "id": "s",
+      "password": "s",
+      "email": "s",
+      "phoneno": "s"
+    },
+    {
+      "id": "d",
+      "password": "d",
+      "email": "d",
+      "phoneno": "d"
+    }
+  ]
+}
